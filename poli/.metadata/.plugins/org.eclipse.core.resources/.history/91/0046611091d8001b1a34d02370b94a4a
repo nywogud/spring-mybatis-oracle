@@ -1,0 +1,5 @@
+package com.jhl.poli.service;
+
+public interface TestService {
+
+}

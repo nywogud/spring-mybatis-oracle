@@ -1,0 +1,7 @@
+package com.jhl.poli.service;
+
+public interface TestServiceImp {
+	
+	public String getData() throws Exception;
+
+}

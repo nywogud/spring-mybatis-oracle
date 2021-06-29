@@ -1,0 +1,6 @@
+package com.jhl.poli.dao;
+
+public interface TestDAOImp {
+
+	public String getData() throws Exception;
+}
